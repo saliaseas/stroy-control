@@ -1,0 +1,17 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: "inter";
+}
+
+li{
+    margin-left: 22px;
+    font-size: 15px;
+    color: #72787D;
+    transition: 0.5s;
+}
+
+li:hover{
+    color: #036FC7;
+}

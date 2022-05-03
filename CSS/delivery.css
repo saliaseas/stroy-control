@@ -1,0 +1,75 @@
+.delivery {
+    font-family: "Inter";
+    margin-top: 143px;
+}
+
+.delivery__introduction {
+    max-width: 643px;
+    text-align: center;
+    margin: 0 auto 30px auto;
+}
+
+.delivery__title {
+    font-weight: 400;
+    font-size: 32px;
+    color: #212B31;
+}
+
+.delivery__about {
+    font-weight: 400;
+    font-size: 20px;
+    color: #72787D;
+}
+
+.delivery__list {
+    margin-top: 48px;
+    margin-bottom: 64px;
+    align-items: center;
+    max-width: 740px;
+    max-height: 740px;
+    display: flex;
+    justify-content: space-around;
+    flex-flow: column wrap;
+}
+
+.delivery__content {
+    max-width: 318px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 27px;
+    margin-bottom: 33px;
+}
+
+.delivery__name {
+    font-weight: 400;
+    font-size: 18px;
+    color: #212B31;
+}
+
+.delivery__description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #72787D;
+}
+
+.delivery__info {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.delivery__link {
+    text-decoration: none;
+    font-size: 20px;
+    color: #212B31;
+    position: relative;
+    text-align: center;
+    padding: 0;
+}
+
+.delivery__materials {
+    font-weight: 400;
+    font-size: 20px;
+    color: #72787D;
+    display: inline;
+}

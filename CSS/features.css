@@ -1,0 +1,26 @@
+.features{
+    margin-top: 148px;
+    font-family: 'Inter';
+}
+
+.features__box{
+    max-width: 325px;
+    text-align: center;
+}
+
+.features__name{
+    font-weight: 400;
+    font-size: 18px;
+    color: #212B31;
+}
+
+.features__description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #72787D;
+}
+
+.features__content{
+     display: flex;
+     justify-content: space-between;
+}

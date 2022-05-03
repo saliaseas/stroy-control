@@ -1,0 +1,22 @@
+.partners{
+    display: flex;
+    max-width: 1056px;
+    margin: 71px auto 79px auto;
+}
+
+.partners__lines{
+    height: 1px;
+    background: #EEF2F3;
+}
+
+.partners__content{
+    text-align: center;
+}
+
+.partners__imgs{
+    margin: 0 19px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+}

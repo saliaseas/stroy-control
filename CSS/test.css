@@ -1,0 +1,105 @@
+.test {
+    font-family: 'Inter';
+    margin-top: 96px;
+}
+
+.test__top {
+    text-align: center;
+}
+
+.test__info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.test__why {
+    font-weight: 400;
+    font-size: 32px;
+    color: #212B31;
+}
+
+.test__intro {
+    font-weight: 400;
+    font-size: 20px;
+    color: #212B31;
+}
+
+.test__box {
+    background: #F6F8F9;
+    border-radius: 5px;
+}
+
+.test__reasons {
+    max-width: 394px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.test__main {
+    font-weight: 400;
+    font-size: 18px;
+    color: #212B31;
+}
+
+.test__about {
+    font-weight: 400;
+    font-size: 16px;
+    color: #72787D;
+}
+
+.test__title {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 30px;
+    color: #212B31;
+}
+
+.test__text {
+    max-width: 435px;
+    margin: 0 auto;
+}
+
+.review__photo {
+    width: 48px;
+    height: 48px;
+    background: #212B31;
+    margin-right: 8px;
+    border-radius: 48px;
+}
+
+.test__review {
+    display: flex;
+    align-items: center;
+}
+
+.review__name {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    color: #212B31;
+}
+
+.review__person {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    color: #72787D;
+}
+
+.swiper {
+    width: 614px;
+    height: 516px;
+}
+
+.swiper-pagination {
+    width: auto;
+    left: 0;
+}
+
+.swiper-horizontal>.swiper-pagination-bullets,
+.swiper-pagination-bullets.swiper-pagination-horizontal,
+.swiper-pagination-custom,
+.swiper-pagination-fraction {
+    width: auto;
+    left: 0;
+}

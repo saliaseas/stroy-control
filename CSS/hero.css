@@ -1,0 +1,31 @@
+.hero{
+    font-family: 'Inter';
+    padding-top: 74px;
+}
+
+.hero__title{
+    font-weight: 400;
+    font-size: 48px;
+    color:#212B31;
+    max-width: 818px;
+    text-align: center;
+    margin: 0 auto 30px auto;
+}
+
+.hero__btns{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 88px;
+}
+
+.hero__btn{
+    margin: 0 8px;
+}
+
+.hero__imgs{
+    text-align: center;
+}
+
+.hero__town{
+    margin-bottom: 36px;
+}

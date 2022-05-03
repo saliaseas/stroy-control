@@ -1,0 +1,42 @@
+.control {
+    font-family: "Inter";
+    margin-top: 78px;
+}
+
+.control__title {
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 48px;
+    text-align: center;
+    color: #212B31;
+    margin-bottom: 21px;
+}
+
+.control__description {
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #72787D;
+    max-width: 827px;
+    margin: 0 auto 28px auto;
+}
+
+.control__name {
+    font-weight: 400;
+    font-size: 18px;
+    color: #212B31;
+    margin-bottom: 19px;
+}
+
+.control__info {
+    font-weight: 400;
+    font-size: 16px;
+    color: #72787D;
+    max-width: 500px;
+}
+
+.control__intro{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

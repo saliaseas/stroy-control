@@ -1,0 +1,21 @@
+footer {
+    margin-top: 157px;
+    font-family: 'Inter';
+
+}
+
+.footer__info {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #72787D;
+    padding: 0;
+    list-style: none;
+}
+
+.footer__top {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #212B31;
+}

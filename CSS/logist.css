@@ -1,0 +1,28 @@
+.logist {
+    font-family: 'Inter';
+    margin-top: 149px;
+}
+
+.logist__content {
+    position: relative;
+    display: flex;
+    justify-content: center;
+
+}
+
+.logist__btns {
+    position: absolute;
+    top: 299px;
+    
+}
+
+.logist__title {
+    position: absolute;
+    color: #212B31;
+    text-align: center;
+    font-weight: 400;
+    font-size: 48px;
+    top: 117px;
+    width: 980px;
+    height: 128px;
+}
